@@ -620,7 +620,16 @@ span {
 }
 
 .experience .heading {
+  /* margin-bottom: 4rem; */
+}
+
+.experience .qoute {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--second-bg-color);
   margin-bottom: 4rem;
+  font-size: large;
 }
 
 .experience .heading i {
